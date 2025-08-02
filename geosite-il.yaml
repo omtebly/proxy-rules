@@ -1,0 +1,5 @@
+# IL Geo sites
+payload:
+  - DOMAIN-SUFFIX,019mobile.com
+  - DOMAIN-SUFFIX,co.il
+  - DOMAIN-SUFFIX,gov.il

@@ -1,0 +1,6 @@
+# RU blocked sites
+payload:
+  - GEOSITE,openai
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,auth0.com
+  - DOMAIN-SUFFIX,sentry.io

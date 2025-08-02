@@ -1,0 +1,9 @@
+# RU blocked sites
+payload:
+  - GEOSITE,instagram
+  - GEOSITE,facebook
+
+  - DOMAIN-SUFFIX,habr.com
+  - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,adblockultimate.net
+  - DOMAIN-SUFFIX,notion.so
