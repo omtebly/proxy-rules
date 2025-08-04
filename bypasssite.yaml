@@ -1,8 +1,9 @@
 # direct bypass sites
 payload:
   # tech-sites
-  - DOMAIN-SUFFIX,vultr.com
   - GEOSITE,cloudflare
+  - DOMAIN-SUFFIX,vultr.com
+  - DOMAIN-SUFFIX,githubusercontent.com
 
   # VPN Extensions and voice/video Apps
   - DOMAIN-SUFFIX,opencopy.homes
@@ -17,5 +18,4 @@ payload:
   - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,airdna.co
 
-  - GEOSITE,microsoft,DIRECT
   - GEOSITE,pinterest,DIRECT

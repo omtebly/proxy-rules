@@ -11,6 +11,6 @@ rule-providers:
   openai:
     type: http
     behavior: classical
-    url: "https://raw.githubusercontent.com/omtebly/clash-rules/main/ruleset/openai.yaml"
+    url: "https://raw.githubusercontent.com/omtebly/proxy-rules/main/openai.yaml"
     interval: 86400
     path: ./ruleset/openai.yaml
