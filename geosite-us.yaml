@@ -1,8 +1,10 @@
 # US Geo sites
 payload:
+  #Finance
   - GEOSITE,stripe
   - GEOSITE,paypal
   - DOMAIN-SUFFIX,fidelity.com
+  - DOMAIN-SUFFIX,fidelityinvestments.com
   - DOMAIN-SUFFIX,capitalone.com
   - DOMAIN-SUFFIX,citi.com
   - DOMAIN-SUFFIX,santanderbank.com
@@ -12,13 +14,16 @@ payload:
   - DOMAIN-SUFFIX,americanexpress.com
   - DOMAIN-SUFFIX,aexp-static.com
   - DOMAIN-SUFFIX,xero.com
+  #Freelance
   - DOMAIN-SUFFIX,fiverr.com
   - DOMAIN-SUFFIX,etsy.com
   - DOMAIN-SUFFIX,upwork.com
+  #LLC
   - DOMAIN-SUFFIX,northwestregisteredagent.com
   - DOMAIN-SUFFIX,ipostal1.com
   - DOMAIN-SUFFIX,fincen.gov
   - DOMAIN-SUFFIX,regus.com
   - DOMAIN-SUFFIX,myregus.com
+  #Other
   - DOMAIN-SUFFIX,pearsonvue.com
   - DOMAIN-SUFFIX,ged.com

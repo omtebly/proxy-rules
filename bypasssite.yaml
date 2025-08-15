@@ -2,20 +2,28 @@
 payload:
   # tech-sites
   - GEOSITE,cloudflare
+  - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,vultr.com
   - DOMAIN-SUFFIX,githubusercontent.com
+  - GEOSITE,github
+  - GEOSITE,vercel
 
   # VPN Extensions and voice/video Apps
   - DOMAIN-SUFFIX,opencopy.homes
   - DOMAIN-SUFFIX,adguard-vpn.com
   - DOMAIN-SUFFIX,hushed.com
-  - DOMAIN-SUFFIX,sip.global
   - GEOSITE,zoom
-  - GEOSITE,telegram
-  - GEOSITE,whatsapp
+  # - GEOSITE,telegram
+  # - GEOSITE,whatsapp
 
   # Big-Data Sites
   - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,airdna.co
+  - DOMAIN-SUFFIX,whop.com
+  - DOMAIN-SUFFIX,mux.com
 
-  - GEOSITE,pinterest,DIRECT
+  - GEOSITE,pinterest
+
+  # Google Drive
+  - DOMAIN-SUFFIX,drive.google.com
+  - DOMAIN-SUFFIX,docs.google.com
