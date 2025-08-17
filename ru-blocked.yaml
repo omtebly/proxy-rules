@@ -10,7 +10,4 @@ payload:
 
   - DOMAIN-SUFFIX,itunes.apple.com
 
-  - DOMAIN-SUFFIX,grammarly.io
-  - DOMAIN-SUFFIX,grammarly.com
-
   - DOMAIN-SUFFIX,viber.com

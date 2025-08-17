@@ -7,13 +7,24 @@ payload:
   - DOMAIN-SUFFIX,fidelityinvestments.com
   - DOMAIN-SUFFIX,capitalone.com
   - DOMAIN-SUFFIX,citi.com
+  - DOMAIN-SUFFIX,citibank.com
   - DOMAIN-SUFFIX,santanderbank.com
   - DOMAIN-SUFFIX,usbank.com
   - DOMAIN-SUFFIX,bankofamerica.com
   - DOMAIN-SUFFIX,bac-assets.com
   - DOMAIN-SUFFIX,americanexpress.com
   - DOMAIN-SUFFIX,aexp-static.com
+  - DOMAIN-SUFFIX,chase.com
+  - DOMAIN-SUFFIX,schwab.com
+  - DOMAIN-SUFFIX,vanguard.com
+  - DOMAIN-SUFFIX,etrade.com
+  - DOMAIN-SUFFIX,robinhood.com
+  - DOMAIN-SUFFIX,discover.com
+  - DOMAIN-SUFFIX,mercury.com
+  - DOMAIN-SUFFIX,relayfi.com
+
   - DOMAIN-SUFFIX,xero.com
+
   #Freelance
   - DOMAIN-SUFFIX,fiverr.com
   - DOMAIN-SUFFIX,etsy.com

@@ -2,7 +2,7 @@
 payload:
   # tech-sites
   - GEOSITE,cloudflare
-  - DOMAIN-SUFFIX,gstatic.com
+  # - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,vultr.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - GEOSITE,github
@@ -13,8 +13,6 @@ payload:
   - DOMAIN-SUFFIX,adguard-vpn.com
   - DOMAIN-SUFFIX,hushed.com
   - GEOSITE,zoom
-  # - GEOSITE,telegram
-  # - GEOSITE,whatsapp
 
   # Big-Data Sites
   - DOMAIN-SUFFIX,tradingview.com
