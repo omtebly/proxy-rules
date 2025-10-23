@@ -2,6 +2,8 @@
 payload:
   - GEOSITE,instagram
   - GEOSITE,facebook
+  - GEOSITE,whatsapp
+  - GEOSITE,telegram
 
   - DOMAIN-SUFFIX,habr.com
   - DOMAIN-SUFFIX,gvt1.com

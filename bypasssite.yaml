@@ -2,11 +2,18 @@
 payload:
   # tech-sites
   - GEOSITE,cloudflare
-  # - DOMAIN-SUFFIX,gstatic.com
-  - DOMAIN-SUFFIX,vultr.com
-  - DOMAIN-SUFFIX,githubusercontent.com
   - GEOSITE,github
   - GEOSITE,vercel
+  - DOMAIN-SUFFIX,vultr.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  # - DOMAIN-SUFFIX,cloudflare-dns.com
+  # - DOMAIN-SUFFIX,dns.google
+  # - IP-CIDR,104.16.248.249/32,no-resolve
+  # - IP-CIDR,104.16.249.249/32,no-resolve
+  # - IP-CIDR,1.1.1.1/32,no-resolve
+  # - IP-CIDR,1.0.0.1/32,no-resolve
+  # - IP-CIDR,8.8.8.8/32,no-resolve
+  # - IP-CIDR,8.8.4.4/32,no-resolve
 
   # VPN Extensions and voice/video Apps
   - DOMAIN-SUFFIX,opencopy.homes
@@ -21,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,mux.com
 
   - GEOSITE,pinterest
+  - GEOSITE,microsoft
 
   # Google Drive
   - DOMAIN-SUFFIX,drive.google.com
