@@ -5,6 +5,7 @@ payload:
   - GEOSITE,whatsapp
   - GEOSITE,telegram
 
+  - DOMAIN-SUFFIX,translyaciya.com
   - DOMAIN-SUFFIX,habr.com
   - DOMAIN-SUFFIX,gvt1.com
   - DOMAIN-SUFFIX,adblockultimate.net

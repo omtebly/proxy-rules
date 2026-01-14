@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,relayfi.com
   - DOMAIN-SUFFIX,rsa3dsauth.com
   - DOMAIN-SUFFIX,securesuite.net
+  - DOMAIN-SUFFIX,capitaloneshopping.com
 
   #Freelance
   - DOMAIN-SUFFIX,fiverr.com
@@ -39,8 +40,10 @@ payload:
   - DOMAIN-SUFFIX,fincen.gov
   - DOMAIN-SUFFIX,regus.com
   - DOMAIN-SUFFIX,myregus.com
-  #Other
+  #Study
   - DOMAIN-SUFFIX,pearsonvue.com
   - DOMAIN-SUFFIX,ged.com
   - DOMAIN-SUFFIX,collegeboard.org
   - DOMAIN-SUFFIX,edgesuite.net
+  - DOMAIN-SUFFIX,stanford.edu
+
