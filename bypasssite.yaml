@@ -4,7 +4,7 @@ payload:
   - GEOSITE,cloudflare
   - GEOSITE,github
   - GEOSITE,vercel
-  - DOMAIN-SUFFIX,vultr.com
+  # - DOMAIN-SUFFIX,vultr.com
   - DOMAIN-SUFFIX,githubusercontent.com
   # - DOMAIN-SUFFIX,cloudflare-dns.com
   # - DOMAIN-SUFFIX,dns.google

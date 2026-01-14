@@ -4,12 +4,14 @@ payload:
   - GEOSITE,facebook
   - GEOSITE,whatsapp
   - GEOSITE,telegram
+  - GEOSITE,youtube
 
   - DOMAIN-SUFFIX,translyaciya.com
   - DOMAIN-SUFFIX,habr.com
   - DOMAIN-SUFFIX,gvt1.com
   - DOMAIN-SUFFIX,adblockultimate.net
   - DOMAIN-SUFFIX,notion.so
+  - DOMAIN-SUFFIX,amnezia.org
 
   - DOMAIN-SUFFIX,itunes.apple.com
 
