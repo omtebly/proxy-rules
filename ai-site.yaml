@@ -1,4 +1,4 @@
-# RU blocked sites
+# AI sites
 payload:
   - GEOSITE,openai
   - GEOSITE,google-gemini

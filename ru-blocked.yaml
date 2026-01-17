@@ -3,7 +3,7 @@ payload:
   - GEOSITE,instagram
   - GEOSITE,facebook
   - GEOSITE,whatsapp
-  - GEOSITE,telegram
+  # - GEOSITE,telegram
   - GEOSITE,youtube
 
   - DOMAIN-SUFFIX,translyaciya.com

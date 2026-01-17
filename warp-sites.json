@@ -1,10 +1,35 @@
 {
-  "version": 3,
-  "rules": [
-    {
-      "domain_suffix": [
-        "icanhazip.com"
-      ]
-    }
-  ]
+    "version": 3,
+    "rules": [
+        {
+            "domain_suffix": [
+                "fidelity.com",
+                "fidelityinvestments.com",
+                "capitalone.com",
+                "capitaloneoffers.com",
+                "capitaloneshopping.com",
+                "citi.com",
+                "citibank.com",
+                "santanderbank.com",
+                "usbank.com",
+                "bankofamerica.com",
+                "bac-assets.com",
+                "americanexpress.com",
+                "aexp-static.com",
+                "chase.com",
+                "schwab.com",
+                "vanguard.com",
+                "etrade.com",
+                "robinhood.com",
+                "discover.com",
+                "mercury.com",
+                "relayfi.com",
+                "rsa3dsauth.com",
+                "securesuite.net",
+                "collegeboard.org",
+                "stanford.edu",
+                "ets.org"
+            ]
+        }
+    ]
 }

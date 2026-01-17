@@ -1,9 +1,5 @@
-# US Geo sites
+# Critical sites for warp
 payload:
-  #Finance
-  - GEOSITE,stripe
-  - GEOSITE,paypal
-  # added to wrap
   - DOMAIN-SUFFIX,fidelity.com
   - DOMAIN-SUFFIX,fidelityinvestments.com
   - DOMAIN-SUFFIX,capitalone.com
@@ -27,24 +23,6 @@ payload:
   - DOMAIN-SUFFIX,relayfi.com
   - DOMAIN-SUFFIX,rsa3dsauth.com
   - DOMAIN-SUFFIX,securesuite.net
-
-  #Freelance
-  - DOMAIN-SUFFIX,fiverr.com
-  - DOMAIN-SUFFIX,etsy.com
-  - DOMAIN-SUFFIX,upwork.com
-  #LLC
-  - DOMAIN-SUFFIX,xero.com
-
-  - DOMAIN-SUFFIX,northwestregisteredagent.com
-  - DOMAIN-SUFFIX,ipostal1.com
-  - DOMAIN-SUFFIX,fincen.gov
-  - DOMAIN-SUFFIX,regus.com
-  - DOMAIN-SUFFIX,myregus.com
-  #Study
-  - DOMAIN-SUFFIX,pearsonvue.com
-  - DOMAIN-SUFFIX,ged.com
   - DOMAIN-SUFFIX,collegeboard.org
-  - DOMAIN-SUFFIX,edgesuite.net
   - DOMAIN-SUFFIX,stanford.edu
   - DOMAIN-SUFFIX,ets.org
-
