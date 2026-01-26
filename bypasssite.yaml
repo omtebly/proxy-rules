@@ -4,6 +4,8 @@ payload:
   - GEOSITE,cloudflare
   - GEOSITE,github
   - GEOSITE,vercel
+  - DOMAIN-SUFFIX,cfg.omtebly.com
+  - DOMAIN-SUFFIX,raw.githubusercontent.com
   - DOMAIN-SUFFIX,githubusercontent.com
 
   # VPN Extensions and voice/video Apps
@@ -20,6 +22,10 @@ payload:
 
   - GEOSITE,pinterest
   - GEOSITE,microsoft
+  # - GEOSITE,apple
+
+  # AI inside RU
+  - DOMAIN-SUFFIX,deepseek.com
 
   # Google Drive
   - DOMAIN-SUFFIX,drive.google.com
