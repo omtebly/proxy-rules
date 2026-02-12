@@ -24,10 +24,13 @@ payload:
 
   - GEOSITE,pinterest
   - GEOSITE,microsoft
-  # - GEOSITE,apple
 
   # AI inside RU
   - DOMAIN-SUFFIX,deepseek.com
+
+  # Apple
+  # - GEOSITE,apple
+  - DOMAIN-SUFFIX,icloud.com
 
   # Google
   - DOMAIN-SUFFIX,drive.google.com
