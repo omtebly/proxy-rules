@@ -29,6 +29,8 @@ payload:
   # AI inside RU
   - DOMAIN-SUFFIX,deepseek.com
 
-  # Google Drive
+  # Google
   - DOMAIN-SUFFIX,drive.google.com
   - DOMAIN-SUFFIX,docs.google.com
+  - DOMAIN-SUFFIX,gstatic.com
+

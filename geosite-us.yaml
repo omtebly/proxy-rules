@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,citi.com
   - DOMAIN-SUFFIX,citibank.com
   - DOMAIN-SUFFIX,santanderbank.com
+  - DOMAIN-SUFFIX,santandersandi.com
   - DOMAIN-SUFFIX,usbank.com
   - DOMAIN-SUFFIX,bankofamerica.com
   - DOMAIN-SUFFIX,bac-assets.com
