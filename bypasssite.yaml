@@ -1,10 +1,12 @@
 # direct bypass sites
 payload:
   # tech-sites
-  - GEOSITE,cloudflare
-  - GEOSITE,github
+  # - GEOSITE,cloudflare
   - GEOSITE,vercel
+  # - GEOSITE,github
+  - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,cfg.omtebly.com
+  - DOMAIN-SUFFIX,gist.githubusercontent.com
   - DOMAIN-SUFFIX,raw.githubusercontent.com
   - DOMAIN-SUFFIX,githubusercontent.com
 

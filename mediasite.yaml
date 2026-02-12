@@ -1,0 +1,8 @@
+# Media sites
+payload:
+  - GEOSITE,youtube
+  - GEOSITE,whatsapp
+  - GEOSITE,telegram
+  - DOMAIN-SUFFIX,viber.com
+  - DOMAIN-SUFFIX,signal.org
+  - DOMAIN-SUFFIX,itunes.apple.com

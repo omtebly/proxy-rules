@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,relayfi.com
   - DOMAIN-SUFFIX,rsa3dsauth.com
   - DOMAIN-SUFFIX,securesuite.net
+  #Study
   - DOMAIN-SUFFIX,collegeboard.org
   - DOMAIN-SUFFIX,stanford.edu
   - DOMAIN-SUFFIX,ets.org
