@@ -1,14 +1,15 @@
 # direct bypass sites
 payload:
   # tech-sites
-  # - GEOSITE,cloudflare
-  - GEOSITE,vercel
-  # - GEOSITE,github
-  - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,cfg.omtebly.com
   - DOMAIN-SUFFIX,gist.githubusercontent.com
   - DOMAIN-SUFFIX,raw.githubusercontent.com
   - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,cdn.jsdelivr.net
+  - GEOSITE,vercel
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,github.io
+  # - GEOSITE,cloudflare
 
   # VPN Extensions and voice/video Apps
   - DOMAIN-SUFFIX,opencopy.homes
@@ -21,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,airdna.co
   - DOMAIN-SUFFIX,whop.com
   - DOMAIN-SUFFIX,mux.com
+  # - DOMAIN-SUFFIX,anydesk.com
 
   - GEOSITE,pinterest
   - GEOSITE,microsoft
@@ -31,6 +33,7 @@ payload:
   # Apple
   # - GEOSITE,apple
   - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,icloud-content.com
 
   # Google
   - DOMAIN-SUFFIX,drive.google.com
