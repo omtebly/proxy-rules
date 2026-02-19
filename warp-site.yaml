@@ -2,7 +2,9 @@
 payload:
   #Tech
   - GEOSITE,cisco
-  - GEOSITE,okta
   - GEOSITE,google
   - GEOSITE,microsoft
   - GEOSITE,apple
+  - DOMAIN-SUFFIX,okta.com
+  - DOMAIN-SUFFIX,oktacdn.com
+  - DOMAIN-SUFFIX,okta-emea.com
