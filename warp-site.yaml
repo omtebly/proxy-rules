@@ -1,0 +1,8 @@
+# Critical sites for warp
+payload:
+  #Tech
+  - GEOSITE,cisco
+  - GEOSITE,okta
+  - GEOSITE,google
+  - GEOSITE,microsoft
+  - GEOSITE,apple

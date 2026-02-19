@@ -48,6 +48,3 @@ payload:
   - DOMAIN-SUFFIX,edgesuite.net
   - DOMAIN-SUFFIX,stanford.edu
   - DOMAIN-SUFFIX,ets.org
-
-  #Global
-  # - GEOSITE,google

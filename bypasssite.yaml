@@ -25,7 +25,6 @@ payload:
   # - DOMAIN-SUFFIX,anydesk.com
 
   - GEOSITE,pinterest
-  - GEOSITE,microsoft
 
   # AI inside RU
   - DOMAIN-SUFFIX,deepseek.com
