@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,grammarly.io
   - DOMAIN-SUFFIX,grammarly.com
+  - DOMAIN-SUFFIX,perplexity.ai

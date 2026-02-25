@@ -12,9 +12,8 @@ payload:
   # - GEOSITE,cloudflare
 
   # VPN Extensions and voice/video Apps
-  - DOMAIN-SUFFIX,opencopy.homes
-  - DOMAIN-SUFFIX,adguard-vpn.com
-  - DOMAIN-SUFFIX,hushed.com
+  # - DOMAIN-SUFFIX,opencopy.homes
+  # - DOMAIN-SUFFIX,hushed.com
   - GEOSITE,zoom
 
   # Big-Data Sites
@@ -38,4 +37,3 @@ payload:
   - DOMAIN-SUFFIX,drive.google.com
   - DOMAIN-SUFFIX,docs.google.com
   - DOMAIN-SUFFIX,gstatic.com
-
