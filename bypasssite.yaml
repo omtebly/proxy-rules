@@ -7,13 +7,14 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
   - GEOSITE,vercel
-  - DOMAIN-SUFFIX,github.com
-  - DOMAIN-SUFFIX,github.io
+  # - DOMAIN-SUFFIX,github.com
+  # - DOMAIN-SUFFIX,github.io
   # - GEOSITE,cloudflare
 
   # VPN Extensions and voice/video Apps
   # - DOMAIN-SUFFIX,opencopy.homes
   # - DOMAIN-SUFFIX,hushed.com
+  - DOMAIN-SUFFIX,hlsloader.com
   - GEOSITE,zoom
 
   # Big-Data Sites
@@ -21,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,airdna.co
   - DOMAIN-SUFFIX,whop.com
   - DOMAIN-SUFFIX,mux.com
+  - DOMAIN-SUFFIX,boomstream.com
   # - DOMAIN-SUFFIX,anydesk.com
 
   - GEOSITE,pinterest
