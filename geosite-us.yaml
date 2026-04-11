@@ -14,7 +14,10 @@ payload:
   - DOMAIN-SUFFIX,capitaloneshopping.com
   - DOMAIN-SUFFIX,citi.com
   - DOMAIN-SUFFIX,citibank.com
+  - DOMAIN-SUFFIX,santander.com
   - DOMAIN-SUFFIX,santanderbank.com
+  - DOMAIN-SUFFIX,santanderconsumerusa.com
+  - DOMAIN-SUFFIX,santanderus.com
   - DOMAIN-SUFFIX,santandersandi.com
   - DOMAIN-SUFFIX,usbank.com
   - DOMAIN-SUFFIX,bankofamerica.com
