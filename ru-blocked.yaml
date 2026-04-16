@@ -1,9 +1,5 @@
 # RU blocked sites
 payload:
-  - GEOSITE,instagram
-  - GEOSITE,facebook
-  - GEOSITE,telegram
-
   - DOMAIN-SUFFIX,translyaciya.com
   - DOMAIN-SUFFIX,habr.com
   - DOMAIN-SUFFIX,gvt1.com

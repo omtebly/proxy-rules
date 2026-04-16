@@ -3,6 +3,9 @@ payload:
   - GEOSITE,youtube
   - GEOSITE,whatsapp
   - GEOSITE,telegram
+  - GEOSITE,instagram
+  - GEOSITE,facebook
+
   - DOMAIN-SUFFIX,viber.com
   - DOMAIN-SUFFIX,signal.org
   - DOMAIN-SUFFIX,itunes.apple.com
