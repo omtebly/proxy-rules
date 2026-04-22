@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
   - GEOSITE,vercel
+
   # - DOMAIN-SUFFIX,github.com
   # - DOMAIN-SUFFIX,github.io
   # - GEOSITE,cloudflare
@@ -36,6 +37,6 @@ payload:
   - DOMAIN-SUFFIX,icloud-content.com
 
   # Google
-  - DOMAIN-SUFFIX,drive.google.com
-  - DOMAIN-SUFFIX,docs.google.com
-  - DOMAIN-SUFFIX,gstatic.com
+  # - DOMAIN-SUFFIX,drive.google.com
+  # - DOMAIN-SUFFIX,docs.google.com
+
