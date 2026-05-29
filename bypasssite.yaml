@@ -21,22 +21,24 @@ payload:
   # Big-Data Sites
   - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,airdna.co
-  - DOMAIN-SUFFIX,whop.com
   - DOMAIN-SUFFIX,mux.com
   - DOMAIN-SUFFIX,boomstream.com
   # - DOMAIN-SUFFIX,anydesk.com
-
-  - GEOSITE,pinterest
 
   # AI inside RU
   - DOMAIN-SUFFIX,deepseek.com
 
   # Apple
   # - GEOSITE,apple
-  - DOMAIN-SUFFIX,icloud.com
-  - DOMAIN-SUFFIX,icloud-content.com
+  # - DOMAIN-SUFFIX,icloud.com
+  # - DOMAIN-SUFFIX,icloud-content.com
 
   # Google
   # - DOMAIN-SUFFIX,drive.google.com
   # - DOMAIN-SUFFIX,docs.google.com
 
+  # BiP Messenger
+  - DOMAIN-SUFFIX,bip.com
+  - DOMAIN-SUFFIX,bip.ai
+  - DOMAIN-SUFFIX,lifecell.com.tr
+  - DOMAIN-SUFFIX,turkcell.com.tr
