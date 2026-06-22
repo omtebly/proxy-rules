@@ -7,7 +7,11 @@ payload:
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,grammarly.io
   - DOMAIN-SUFFIX,grammarly.com
+  - GEOSITE,perplexity
   - DOMAIN-SUFFIX,perplexity.ai
+  - GEOSITE,anthropic
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,cognition.ai
 
   - GEOSITE,google-gemini
   - DOMAIN-SUFFIX,gemini.google.com
