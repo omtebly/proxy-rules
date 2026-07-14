@@ -5,6 +5,7 @@ payload:
   - GEOSITE,telegram
   - GEOSITE,instagram
   - GEOSITE,facebook
+  - GEOSITE,ted
 
   - DOMAIN-SUFFIX,viber.com
   - DOMAIN-SUFFIX,signal.org

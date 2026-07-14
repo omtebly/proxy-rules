@@ -13,8 +13,6 @@ payload:
   # - GEOSITE,cloudflare
 
   # VPN Extensions and voice/video Apps
-  # - DOMAIN-SUFFIX,opencopy.homes
-  # - DOMAIN-SUFFIX,hushed.com
   - DOMAIN-SUFFIX,hlsloader.com
   - GEOSITE,zoom
 
@@ -28,17 +26,13 @@ payload:
   # AI inside RU
   - DOMAIN-SUFFIX,deepseek.com
 
-  # Apple
-  # - GEOSITE,apple
-  # - DOMAIN-SUFFIX,icloud.com
-  # - DOMAIN-SUFFIX,icloud-content.com
-
-  # Google
-  # - DOMAIN-SUFFIX,drive.google.com
-  # - DOMAIN-SUFFIX,docs.google.com
-
   # BiP Messenger
   - DOMAIN-SUFFIX,bip.com
   - DOMAIN-SUFFIX,bip.ai
   - DOMAIN-SUFFIX,lifecell.com.tr
   - DOMAIN-SUFFIX,turkcell.com.tr
+
+  - DOMAIN-SUFFIX,khanacademy.org
+
+  - DOMAIN-SUFFIX,account.apple.com
+  - DOMAIN-SUFFIX,icloud.com
