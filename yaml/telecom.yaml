@@ -4,12 +4,11 @@ payload:
   - DOMAIN-SUFFIX,hushed.com
   - DOMAIN-SUFFIX,affinityclick.com
   - DOMAIN-SUFFIX,viber.com
-
   - DOMAIN-SUFFIX,signal.org
   - GEOSITE,whatsapp
   - GEOSITE,telegram
 
-  # Wi-Fi Calling T-Mobile
+  # Wi-Fi Calling T-Mobile, AT&T, Verizon
   - DOMAIN-SUFFIX,3gppnetwork.org
   - DOMAIN-SUFFIX,tello.com
   - DOMAIN-SUFFIX,t-mobile.com
@@ -23,14 +22,14 @@ payload:
 
   - DOMAIN-SUFFIX,idemia.io
   - DOMAIN-SUFFIX,sip.global
-  # T-Mobile USA
+  # T-Mobile
   - IP-ASN,21928
   - IP-ASN,10507
   - IP-ASN,6614
-  # AT&T Mobility / Wireless
+  # AT&T
   - IP-ASN,20057
   - IP-ASN,7018
-  # Verizon Wireless
+  # Verizon
   - IP-ASN,6167
   - IP-ASN,22394
 

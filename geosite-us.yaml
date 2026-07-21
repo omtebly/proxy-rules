@@ -50,7 +50,7 @@ payload:
   - DOMAIN-SUFFIX,intuit.com
   - DOMAIN-SUFFIX,taxact.com
 
-  #Study
+  #US Study
   - DOMAIN-SUFFIX,pearsonvue.com
   - DOMAIN-SUFFIX,ged.com
   - DOMAIN-SUFFIX,collegeboard.org

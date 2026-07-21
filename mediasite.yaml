@@ -1,12 +1,24 @@
 # Media sites
 payload:
+  - DOMAIN-SUFFIX.litix.io
+
   - GEOSITE,youtube
   - GEOSITE,whatsapp
   - GEOSITE,telegram
   - GEOSITE,instagram
   - GEOSITE,facebook
-  - GEOSITE,ted
+  - GEOSITE,discord
+  - GEOSITE,slack
 
   - DOMAIN-SUFFIX,viber.com
   - DOMAIN-SUFFIX,signal.org
   - DOMAIN-SUFFIX,itunes.apple.com
+
+  # Learning
+  - GEOSITE,ted
+  - GEUSITE,coursera
+  - DOMAIN-SUFFIX,udemy.com
+  - DOMAIN-SUFFIX,udemycdn.com
+  - DOMAIN-SUFFIX,alison.com
+  - DOMAIN-SUFFIX,agile-academy.com
+  - DOMAIN-SUFFIX,techcanvass.com

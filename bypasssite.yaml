@@ -1,16 +1,11 @@
 # direct bypass sites
 payload:
   # tech-sites
-  - DOMAIN-SUFFIX,cfg.omtebly.com
   - DOMAIN-SUFFIX,gist.githubusercontent.com
   - DOMAIN-SUFFIX,raw.githubusercontent.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
   - GEOSITE,vercel
-
-  # - DOMAIN-SUFFIX,github.com
-  # - DOMAIN-SUFFIX,github.io
-  # - GEOSITE,cloudflare
 
   # VPN Extensions and voice/video Apps
   - DOMAIN-SUFFIX,hlsloader.com
