@@ -21,11 +21,11 @@ payload:
   # AI inside RU
   - DOMAIN-SUFFIX,deepseek.com
 
-  # BiP Messenger
-  - DOMAIN-SUFFIX,bip.com
-  - DOMAIN-SUFFIX,bip.ai
-  - DOMAIN-SUFFIX,lifecell.com.tr
-  - DOMAIN-SUFFIX,turkcell.com.tr
+  # BiP Messenger ???
+  # - DOMAIN-SUFFIX,bip.com
+  # - DOMAIN-SUFFIX,bip.ai
+  # - DOMAIN-SUFFIX,lifecell.com.tr
+  # - DOMAIN-SUFFIX,turkcell.com.tr
 
   - DOMAIN-SUFFIX,khanacademy.org
 
