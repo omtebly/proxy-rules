@@ -1,37 +1,36 @@
 # telecom, voice/video, sip or wi-fi calling
 payload:
-  - DOMAIN-SUFFIX,opencopy.homes
-  - DOMAIN-SUFFIX,hushed.com
   - DOMAIN-SUFFIX,affinityclick.com
-  - DOMAIN-SUFFIX,viber.com
+  - DOMAIN-SUFFIX,hushed.com
+  - DOMAIN-SUFFIX,opencopy.homes
   - DOMAIN-SUFFIX,signal.org
-  - GEOSITE,whatsapp
   - GEOSITE,telegram
+  - GEOSITE,viber
+  - GEOSITE,whatsapp
 
   # Wi-Fi Calling T-Mobile, AT&T, Verizon
-  - DOMAIN-SUFFIX,3gppnetwork.org
-  - DOMAIN-SUFFIX,tello.com
-  - DOMAIN-SUFFIX,t-mobile.com
-  - DOMAIN-SUFFIX,spcsdns.net
-
-  - DOMAIN-SUFFIX,att.com
-  - DOMAIN-SUFFIX,att.net
-  - DOMAIN-SUFFIX,vzw.com
-  - DOMAIN-SUFFIX,verizonwireless.com
-  - DOMAIN-SUFFIX,vzwwo.com
-
   - DOMAIN-SUFFIX,idemia.io
   - DOMAIN-SUFFIX,sip.global
+  - DOMAIN-SUFFIX,3gppnetwork.org
+  # - AND,((DST-PORT,4500),(NETWORK,UDP))
+  # - AND,((DST-PORT,500),(NETWORK,UDP))
+
   # T-Mobile
   - IP-ASN,21928
   - IP-ASN,10507
   - IP-ASN,6614
+  - DOMAIN-SUFFIX,tello.com
+  - DOMAIN-SUFFIX,t-mobile.com
+  - DOMAIN-SUFFIX,spcsdns.net
+
   # AT&T
   - IP-ASN,20057
   - IP-ASN,7018
+  - GEOSITE,att
+
   # Verizon
   - IP-ASN,6167
   - IP-ASN,22394
-
-  # - AND,((DST-PORT,500),(NETWORK,UDP))
-  # - AND,((DST-PORT,4500),(NETWORK,UDP))
+  - DOMAIN-SUFFIX,verizonwireless.com
+  - DOMAIN-SUFFIX,vzwwo.com
+  - DOMAIN-SUFFIX,vzw.com

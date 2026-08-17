@@ -1,0 +1,13 @@
+# US GEO sites, no needs WARP
+payload:
+  # LLC, finance
+  - DOMAIN-SUFFIX,northwestregisteredagent.com
+  - DOMAIN-SUFFIX,wyomingagents.com
+  - DOMAIN-SUFFIX,ipostal1.com
+  - DOMAIN-SUFFIX,myregus.com
+  - DOMAIN-SUFFIX,regus.com
+  - DOMAIN-SUFFIX,xero.com
+
+    # study
+  - DOMAIN-SUFFIX,ged.com
+  - DOMAIN-SUFFIX,stanford.edu

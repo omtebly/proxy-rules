@@ -1,0 +1,16 @@
+# RU blocked sites - Simple way out
+payload:
+  - DOMAIN-SUFFIX,adblockultimate.net
+  - DOMAIN-SUFFIX,amnezia.org
+  - DOMAIN-SUFFIX,habr.com
+  - DOMAIN-SUFFIX,notion.so
+  - DOMAIN-SUFFIX,taplink.cc
+  - DOMAIN-SUFFIX,translyaciya.com
+  # - DOMAIN-SUFFIX,gvt1.com
+
+  - DOMAIN-SUFFIX,asana.com
+  - GEOSITE,atlassian
+
+    # Google Search
+  # - DOMAIN,google.com
+  # - DOMAIN,www.google.com

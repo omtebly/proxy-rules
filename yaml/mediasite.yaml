@@ -1,0 +1,20 @@
+# Media sites
+payload:
+    # social
+  - GEOSITE,facebook
+  - GEOSITE,discord
+  - GEOSITE,instagram
+  - GEOSITE,slack
+
+    # study
+  - GEOSITE,coursera
+  - DOMAIN-SUFFIX,udemy.com
+  - DOMAIN-SUFFIX,udemycdn.com
+  - DOMAIN-SUFFIX,techcanvass.com
+  - DOMAIN-SUFFIX,alison.com
+  - DOMAIN-SUFFIX,agile-academy.com
+
+    # stream
+  - GEOSITE,ted
+  - GEOSITE,youtube
+  - DOMAIN-SUFFIX,googlevideo.com

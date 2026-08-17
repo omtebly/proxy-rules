@@ -1,0 +1,47 @@
+{
+    "version": 3,
+    "rules": [
+        {
+            "domain_suffix": [
+                "fidelity.com",
+                "fidelityinvestments.com",
+                "interactivebrokers.com",
+                "ibkr.com",
+                "capitalone.com",
+                "capitalone360.com",
+                "capitaloneoffers.com",
+                "capitaloneshopping.com",
+                "citi.com",
+                "citibank.com",
+                "santander.com",
+                "santanderbank.com",
+                "santanderus.com",
+                "santanderconsumerusa.com",
+                "santandersandi.com",
+                "usbank.com",
+                "bankofamerica.com",
+                "bac-assets.com",
+                "americanexpress.com",
+                "aexp-static.com",
+                "chase.com",
+                "schwab.com",
+                "vanguard.com",
+                "etrade.com",
+                "robinhood.com",
+                "discover.com",
+                "mercury.com",
+                "relayfi.com",
+                "rsa3dsauth.com",
+                "securesuite.net",
+                "collegeboard.org",
+                "stanford.edu",
+                "ets.org",
+                "intuit.com",
+                "taxact.com",
+                "upwork.com",
+                "fiverr.com",
+                "asana.com"
+            ]
+        }
+    ]
+}

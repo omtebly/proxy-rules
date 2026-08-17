@@ -1,0 +1,29 @@
+# direct bypass sites
+payload:
+    # tech-sites
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,cdn.jsdelivr.net
+  - GEOSITE,vercel
+
+    # VPN Extensions and voice/video Apps
+  - DOMAIN-SUFFIX,hlsloader.com
+  - GEOSITE,zoom
+
+    # Big-Data Sites
+  - DOMAIN-SUFFIX,airdna.co
+  - DOMAIN-SUFFIX,tradingview.com
+  - DOMAIN-SUFFIX,mux.com
+  - DOMAIN-SUFFIX,litix.io
+  - DOMAIN-SUFFIX,boomstream.com
+
+    # study
+  - DOMAIN-SUFFIX,khanacademy.org
+
+    # AI inside RU
+  - GEOSITE,deepseek
+
+    # BiP Messenger ???
+  # - DOMAIN-SUFFIX,bip.ai
+  # - DOMAIN-SUFFIX,bip.com
+  # - DOMAIN-SUFFIX,lifecell.com.tr
+  # - DOMAIN-SUFFIX,turkcell.com.tr

@@ -1,0 +1,15 @@
+# AI sites
+payload:
+  - GEOSITE,openai
+  # - DOMAIN-SUFFIX,auth0.com
+  # - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,grammarly.com
+  - DOMAIN-SUFFIX,grammarly.io
+  - DOMAIN-SUFFIX,cognition.ai
+  - GEOSITE,anthropic
+  - GEOSITE,perplexity
+
+  # - GEOSITE,apple-intelligence
+  # - GEOSITE,google-gemini
+  # - DOMAIN-SUFFIX,alkalimining-pa.googleapis.com
+  # - DOMAIN-SUFFIX,apple-intelligence.com

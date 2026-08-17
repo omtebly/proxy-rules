@@ -1,0 +1,3 @@
+# telecom, voice/video, sip or wi-fi calling for US specific
+payload:
+  - DOMAIN-SUFFIX,voice.google.com

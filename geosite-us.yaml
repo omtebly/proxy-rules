@@ -49,6 +49,8 @@ payload:
   - DOMAIN-SUFFIX,myregus.com
   - DOMAIN-SUFFIX,intuit.com
   - DOMAIN-SUFFIX,taxact.com
+  - DOMAIN-SUFFIX,wyomingagents.com
+
 
   #US Study
   - DOMAIN-SUFFIX,pearsonvue.com

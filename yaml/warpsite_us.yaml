@@ -1,0 +1,56 @@
+# US GEO sites, WARP needed
+payload:
+  # brokers
+  - DOMAIN-SUFFIX,etrade.com
+  - DOMAIN-SUFFIX,fidelity.com
+  - DOMAIN-SUFFIX,fidelityinvestments.com
+  - GEOSITE,ibkr
+  - DOMAIN-SUFFIX,robinhood.com
+
+  # finance + technical
+  - GEOSITE,paypal
+  - GEOSITE,stripe
+  - DOMAIN-SUFFIX,securesuite.net
+  - DOMAIN-SUFFIX,rsa3dsauth.com
+  - DOMAIN-SUFFIX,rsa3dsauth.co.uk
+
+  # banks
+  - DOMAIN-SUFFIX,americanexpress.com
+  - DOMAIN-SUFFIX,aexp-static.com
+  - DOMAIN-SUFFIX,bankofamerica.com
+  - DOMAIN-SUFFIX,bac-assets.com
+  - DOMAIN-SUFFIX,capitalone.com
+  - DOMAIN-SUFFIX,capitalone360.com
+  - DOMAIN-SUFFIX,capitaloneoffers.com
+  - DOMAIN-SUFFIX,capitaloneshopping.com
+  - DOMAIN-SUFFIX,santander.com
+  - DOMAIN-SUFFIX,santanderbank.com
+  - DOMAIN-SUFFIX,santanderconsumerusa.com
+  - DOMAIN-SUFFIX,santandersandi.com
+  - DOMAIN-SUFFIX,santanderus.com
+  - DOMAIN-SUFFIX,citi.com
+  - DOMAIN-SUFFIX,citibank.com
+  - DOMAIN-SUFFIX,usbank.com
+  - DOMAIN-SUFFIX,chase.com
+  - DOMAIN-SUFFIX,discover.com
+  - DOMAIN-SUFFIX,schwab.com
+  - DOMAIN-SUFFIX,mercury.com
+  - DOMAIN-SUFFIX,vanguard.com
+  - DOMAIN-SUFFIX,relayfi.com
+
+  # LLC
+  - DOMAIN-SUFFIX,fincen.gov
+  - DOMAIN-SUFFIX,intuit.com
+  - DOMAIN-SUFFIX,taxact.com
+
+  # study
+  - DOMAIN-SUFFIX,pearsonvue.com
+  - DOMAIN-SUFFIX,collegeboard.org
+  # - DOMAIN-SUFFIX,edgesuite.net
+  - DOMAIN-SUFFIX,ets.org
+  - DOMAIN-SUFFIX,ets-app-privacy.my.onetrust.com
+
+  # freelance
+  - DOMAIN-SUFFIX,etsy.com
+  - DOMAIN-SUFFIX,fiverr.com
+  - DOMAIN-SUFFIX,upwork.com

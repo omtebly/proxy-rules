@@ -16,7 +16,7 @@ payload:
 
   # Learning
   - GEOSITE,ted
-  - GEUSITE,coursera
+  - GEOSITE,coursera
   - DOMAIN-SUFFIX,udemy.com
   - DOMAIN-SUFFIX,udemycdn.com
   - DOMAIN-SUFFIX,alison.com
