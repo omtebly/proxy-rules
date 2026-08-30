@@ -5,9 +5,3 @@ payload:
   - DOMAIN-SUFFIX,okta.com
   - DOMAIN-SUFFIX,oktacdn.com
   - DOMAIN-SUFFIX,okta-emea.com
-
-# BiP Messenger ???
-  - DOMAIN-SUFFIX,bip.com
-  - DOMAIN-SUFFIX,bip.ai
-  - DOMAIN-SUFFIX,lifecell.com.tr
-  - DOMAIN-SUFFIX,turkcell.com.tr

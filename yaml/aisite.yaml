@@ -11,5 +11,10 @@ payload:
 
   - GEOSITE,apple-intelligence
   - GEOSITE,google-gemini
+  - DOMAIN-SUFFIX,gemini.gstatic.com
   - DOMAIN-SUFFIX,alkalimining-pa.googleapis.com
   - DOMAIN-SUFFIX,apple-intelligence.com
+
+  - DOMAIN-SUFFIX,suno.com
+  - DOMAIN-SUFFIX,qwen.ai
+  - DOMAIN-SUFFIX,klingai.com

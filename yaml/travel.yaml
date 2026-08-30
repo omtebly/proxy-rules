@@ -1,0 +1,4 @@
+# travel sites
+payload:
+  - DOMAIN-SUFFIX,flypgs.com
+  - GEOSITE,aviasales
