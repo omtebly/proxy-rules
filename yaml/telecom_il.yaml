@@ -1,0 +1,13 @@
+# Israel telecom, voice/video, sip or wi-fi calling
+payload:
+  - DOMAIN-SUFFIX,sip.flynumber.com
+
+  # IMS/VoWiFi домены 019 Mobile и партнеров (Partner/Cellcom)
+  - DOMAIN-SUFFIX,019mobile.co.il
+  - DOMAIN-SUFFIX,019mobile.com
+  - DOMAIN-SUFFIX,mnc019.mcc425.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,mnc01.mcc425.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,mnc02.mcc425.pub.3gppnetwork.org
+
+  # Если вы используете мобильный интернет от 019
+  # - DOMAIN-SUFFIX,netazi.co.il

@@ -4,6 +4,7 @@ payload:
   - GEOSITE,facebook
   - GEOSITE,discord
   - GEOSITE,instagram
+  - GEOSITE,meta
   - GEOSITE,slack
 
     # study
