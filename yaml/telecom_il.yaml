@@ -5,6 +5,9 @@ payload:
   # IMS/VoWiFi домены 019 Mobile и партнеров (Partner/Cellcom)
   - DOMAIN-SUFFIX,019mobile.co.il
   - DOMAIN-SUFFIX,019mobile.com
+  - DOMAIN-SUFFIX,019.co.il
+  - DOMAIN-SUFFIX,telzar.co.il
+
   - DOMAIN-SUFFIX,mnc019.mcc425.pub.3gppnetwork.org
   - DOMAIN-SUFFIX,mnc01.mcc425.pub.3gppnetwork.org
   - DOMAIN-SUFFIX,mnc02.mcc425.pub.3gppnetwork.org

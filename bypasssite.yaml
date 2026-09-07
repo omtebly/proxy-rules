@@ -26,13 +26,3 @@ payload:
   - DOMAIN-SUFFIX,account.apple.com
   - DOMAIN-SUFFIX,icloud.com
 
-  # Google Workspace
-  - DOMAIN-SUFFIX,drive.google.com
-  - DOMAIN-SUFFIX,docs.google.com
-  - DOMAIN-SUFFIX,sheets.google.com
-  - DOMAIN-SUFFIX,slides.google.com
-  - DOMAIN-SUFFIX,calendar.google.com
-
-  - DOMAIN-SUFFIX,mail.google.com
-  - DOMAIN-SUFFIX,gmail.com
-  - DOMAIN-SUFFIX,mail-attachment.googleusercontent.com
