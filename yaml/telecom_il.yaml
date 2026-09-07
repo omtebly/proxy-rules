@@ -9,5 +9,6 @@ payload:
   - DOMAIN-SUFFIX,mnc01.mcc425.pub.3gppnetwork.org
   - DOMAIN-SUFFIX,mnc02.mcc425.pub.3gppnetwork.org
 
+  - DOMAIN-SUFFIX,glassix.com
   # Если вы используете мобильный интернет от 019
   # - DOMAIN-SUFFIX,netazi.co.il

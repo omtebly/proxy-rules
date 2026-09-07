@@ -22,8 +22,13 @@ payload:
     # AI inside RU
   - GEOSITE,deepseek
 
-    # BiP Messenger ???
-  # - DOMAIN-SUFFIX,bip.ai
-  # - DOMAIN-SUFFIX,bip.com
-  # - DOMAIN-SUFFIX,lifecell.com.tr
-  # - DOMAIN-SUFFIX,turkcell.com.tr
+  # Google Workspace
+  - DOMAIN-SUFFIX,drive.google.com
+  - DOMAIN-SUFFIX,docs.google.com
+  - DOMAIN-SUFFIX,sheets.google.com
+  - DOMAIN-SUFFIX,slides.google.com
+  - DOMAIN-SUFFIX,calendar.google.com
+
+  - DOMAIN-SUFFIX,mail.google.com
+  - DOMAIN-SUFFIX,gmail.com
+  - DOMAIN-SUFFIX,mail-attachment.googleusercontent.com

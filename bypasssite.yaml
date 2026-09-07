@@ -1,9 +1,9 @@
 # direct bypass sites
 payload:
   # tech-sites
+  - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,gist.githubusercontent.com
   - DOMAIN-SUFFIX,raw.githubusercontent.com
-  - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
   - GEOSITE,vercel
 
@@ -21,13 +21,18 @@ payload:
   # AI inside RU
   - DOMAIN-SUFFIX,deepseek.com
 
-  # BiP Messenger ???
-  # - DOMAIN-SUFFIX,bip.com
-  # - DOMAIN-SUFFIX,bip.ai
-  # - DOMAIN-SUFFIX,lifecell.com.tr
-  # - DOMAIN-SUFFIX,turkcell.com.tr
-
   - DOMAIN-SUFFIX,khanacademy.org
 
   - DOMAIN-SUFFIX,account.apple.com
   - DOMAIN-SUFFIX,icloud.com
+
+  # Google Workspace
+  - DOMAIN-SUFFIX,drive.google.com
+  - DOMAIN-SUFFIX,docs.google.com
+  - DOMAIN-SUFFIX,sheets.google.com
+  - DOMAIN-SUFFIX,slides.google.com
+  - DOMAIN-SUFFIX,calendar.google.com
+
+  - DOMAIN-SUFFIX,mail.google.com
+  - DOMAIN-SUFFIX,gmail.com
+  - DOMAIN-SUFFIX,mail-attachment.googleusercontent.com
