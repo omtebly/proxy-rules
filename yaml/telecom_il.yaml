@@ -8,10 +8,12 @@ payload:
   - DOMAIN-SUFFIX,019.co.il
   - DOMAIN-SUFFIX,telzar.co.il
 
-  - DOMAIN-SUFFIX,mnc019.mcc425.pub.3gppnetwork.org
-  - DOMAIN-SUFFIX,mnc01.mcc425.pub.3gppnetwork.org
-  - DOMAIN-SUFFIX,mnc02.mcc425.pub.3gppnetwork.org
+  - DOMAIN-KEYWORD,mnc01.mcc425.pub.3gppnetwork.org
+  - DOMAIN-KEYWORD,mnc02.mcc425.pub.3gppnetwork.org
+  - DOMAIN-KEYWORD,mnc019.mcc425.pub.3gppnetwork.org
 
   - DOMAIN-SUFFIX,glassix.com
+  - DOMAIN-SUFFIX,glassix.co.il
+  - DOMAIN-KEYWORD,glassix
   # Если вы используете мобильный интернет от 019
   # - DOMAIN-SUFFIX,netazi.co.il
