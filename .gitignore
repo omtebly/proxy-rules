@@ -1,3 +1,44 @@
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+.nfs*
+
+# Editors / IDEs
 *.sublime-project
 *.sublime-workspace
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Clash / mihomo local artifacts
+*.mrs
+*.db
+ruleset/
+
+# Secrets and env
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+secrets.yaml
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
+.cache/
